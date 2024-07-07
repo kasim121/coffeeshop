@@ -1,16 +1,6 @@
-# coffeeshop
+# screenshots
+![coffeeshop1](https://github.com/kasim121/coffeeshop/assets/53419295/d9611ed3-d1f6-4ab4-b5c2-ea8791835d86)
+![coffeeshop2](https://github.com/kasim121/coffeeshop/assets/53419295/474c60bc-c606-41b4-8e81-48fdd1430f84)
+![coffeeshop4](https://github.com/kasim121/coffeeshop/assets/53419295/4e36c83e-6e1e-425c-a5e2-8bebf1ff9fa3)
+![coffeshop3](https://github.com/kasim121/coffeeshop/assets/53419295/e24d186c-13c2-4b92-bb4e-8fe2fb7dd244)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
